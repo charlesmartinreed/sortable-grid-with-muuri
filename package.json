@@ -1,0 +1,10 @@
+{
+  "name": "sortable-grid-layout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "charlesmartinreed <charlesmartinreed@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "muuri": "^0.7.1"
+  }
+}
